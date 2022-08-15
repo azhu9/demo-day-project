@@ -1,0 +1,18 @@
+
+body{
+    background-color: lightgreen;
+    font-family: 'Playfair Display', serif;
+}
+#nav-bar{
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: seagreen;
+}
+a{
+    color: white;
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+}
